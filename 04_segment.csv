@@ -1,0 +1,16 @@
+age_group,brand,units_sold
+18-24,Aster,12088
+18-24,Orion,11824
+18-24,Nova,11725
+25-34,Nova,11928
+25-34,Orion,11897
+25-34,Aster,11789
+35-44,Nova,11937
+35-44,Orion,11927
+35-44,Aster,11682
+45-54,Orion,11738
+45-54,Nova,11718
+45-54,Aster,11629
+55+,Orion,11997
+55+,Aster,11859
+55+,Nova,11555

@@ -1,0 +1,5 @@
+// Create these measures on a table named sales in Power BI Desktop.
+Net Revenue = SUM(sales[net_revenue_usd])
+Units Sold = SUM(sales[units])
+Sales Records = COUNTROWS(sales)
+Revenue per Unit = DIVIDE([Net Revenue], [Units Sold])

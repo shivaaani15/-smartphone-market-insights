@@ -1,0 +1,187 @@
+{
+  "01_kpis": [
+    {
+      "sales_records": 150000,
+      "units_sold": 177293,
+      "net_revenue_usd": 91542061.6,
+      "revenue_per_unit_usd": 516.33
+    }
+  ],
+  "02_brand": [
+    {
+      "brand": "Orion",
+      "units_sold": 59383,
+      "net_revenue_usd": 43947386.25
+    },
+    {
+      "brand": "Nova",
+      "units_sold": 58863,
+      "net_revenue_usd": 28546617.7
+    },
+    {
+      "brand": "Aster",
+      "units_sold": 59047,
+      "net_revenue_usd": 19048057.65
+    }
+  ],
+  "03_month": [
+    {
+      "month": "2026-01",
+      "units_sold": 20100,
+      "net_revenue_usd": 10352256.95
+    },
+    {
+      "month": "2026-02",
+      "units_sold": 18091,
+      "net_revenue_usd": 9304524.85
+    },
+    {
+      "month": "2026-03",
+      "units_sold": 19935,
+      "net_revenue_usd": 10304365.75
+    },
+    {
+      "month": "2026-04",
+      "units_sold": 19461,
+      "net_revenue_usd": 10115307.7
+    },
+    {
+      "month": "2026-05",
+      "units_sold": 20160,
+      "net_revenue_usd": 10365295.55
+    },
+    {
+      "month": "2026-06",
+      "units_sold": 19303,
+      "net_revenue_usd": 10050294.95
+    },
+    {
+      "month": "2026-07",
+      "units_sold": 20326,
+      "net_revenue_usd": 10472271.6
+    },
+    {
+      "month": "2026-08",
+      "units_sold": 20171,
+      "net_revenue_usd": 10460157.05
+    },
+    {
+      "month": "2026-09",
+      "units_sold": 19746,
+      "net_revenue_usd": 10117587.2
+    }
+  ],
+  "04_segment": [
+    {
+      "age_group": "18-24",
+      "brand": "Aster",
+      "units_sold": 12088
+    },
+    {
+      "age_group": "18-24",
+      "brand": "Orion",
+      "units_sold": 11824
+    },
+    {
+      "age_group": "18-24",
+      "brand": "Nova",
+      "units_sold": 11725
+    },
+    {
+      "age_group": "25-34",
+      "brand": "Nova",
+      "units_sold": 11928
+    },
+    {
+      "age_group": "25-34",
+      "brand": "Orion",
+      "units_sold": 11897
+    },
+    {
+      "age_group": "25-34",
+      "brand": "Aster",
+      "units_sold": 11789
+    },
+    {
+      "age_group": "35-44",
+      "brand": "Nova",
+      "units_sold": 11937
+    },
+    {
+      "age_group": "35-44",
+      "brand": "Orion",
+      "units_sold": 11927
+    },
+    {
+      "age_group": "35-44",
+      "brand": "Aster",
+      "units_sold": 11682
+    },
+    {
+      "age_group": "45-54",
+      "brand": "Orion",
+      "units_sold": 11738
+    },
+    {
+      "age_group": "45-54",
+      "brand": "Nova",
+      "units_sold": 11718
+    },
+    {
+      "age_group": "45-54",
+      "brand": "Aster",
+      "units_sold": 11629
+    },
+    {
+      "age_group": "55+",
+      "brand": "Orion",
+      "units_sold": 11997
+    },
+    {
+      "age_group": "55+",
+      "brand": "Aster",
+      "units_sold": 11859
+    },
+    {
+      "age_group": "55+",
+      "brand": "Nova",
+      "units_sold": 11555
+    }
+  ],
+  "05_channel": [
+    {
+      "channel": "Online",
+      "sales_records": 75136,
+      "units_sold": 88731,
+      "net_revenue_usd": 45778214.15
+    },
+    {
+      "channel": "Retail",
+      "sales_records": 74864,
+      "units_sold": 88562,
+      "net_revenue_usd": 45763847.45
+    }
+  ],
+  "06_region": [
+    {
+      "region": "North",
+      "units_sold": 44433,
+      "net_revenue_usd": 22969189.65
+    },
+    {
+      "region": "East",
+      "units_sold": 44264,
+      "net_revenue_usd": 22881983.6
+    },
+    {
+      "region": "West",
+      "units_sold": 44383,
+      "net_revenue_usd": 22876392.8
+    },
+    {
+      "region": "South",
+      "units_sold": 44213,
+      "net_revenue_usd": 22814495.55
+    }
+  ]
+}
